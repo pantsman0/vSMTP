@@ -15,6 +15,7 @@ release. They will however *never* happen in a patch release.
 
 ### Added
 
+* Support Docker (#340)
 * support for `MySQL` databases. see [`/examples/greylist/mysql`](https://github.com/viridIT/vSMTP/tree/develop/examples/greylist/mysql). (#548)
 
 ### Changed
